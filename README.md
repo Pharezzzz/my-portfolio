@@ -13,7 +13,7 @@ Dynamic Data Scientist with 5+ years of experience delivering impactful data-dri
 - Website Development
 
 ## Education
-- B.ENG., Automotive Engineering | Elizade University (_September 2023_)								       		
+B.ENG., Automotive Engineering | Elizade University (_September 2023_)								       		
 
 ## Work Experience
 **Web Developer @ MEMAN (_January 2023 - Present_)**
