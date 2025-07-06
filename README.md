@@ -1,4 +1,4 @@
-# Data Scientist
+# Artificial Intelligence Engineer
 Dynamic AI Engineer with 6+ years of experience delivering scalable machine learning and deep learning solutions that accelerate business performance. Proven expertise in deploying production-ready AI models, optimizing end-to-end data workflows, and driving strategic decision making through intelligent systems. Skilled in leveraging cloud platforms, NLP, and collaborative tools to generate actionable insights and solve complex challenges in remote, cross-functional teams.
 
 #### Expertise: 
