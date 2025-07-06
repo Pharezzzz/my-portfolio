@@ -12,7 +12,7 @@ Dynamic AI Engineer with 6+ years of experience delivering scalable machine lear
 - Website Development
 
 ## Education
-B.ENG., Automotive Engineering | Elizade University (_September 2023_)								       		
+B.ENG., Automotive Engineering | Elizade University (_October 2018 - September 2023_)								       		
 
 ## Work Experience
 **Senior Web Developer & IT/AI Engineer @ MEMAN in Nigeria (_January 2024 - Present_)**
