@@ -1,28 +1,45 @@
 # Data Scientist
-Dynamic Data Scientist with 5+ years of experience delivering impactful data-driven solutions that enhance business performance. Proven expertise in developing and deploying machine learning models, optimizing data analysis processes, and driving strategic decision-making. Skilled in leveraging cloud technologies, advanced analytics, and collaborative tools to create actionable insights and solve complex problems in remote environments.
+Dynamic AI Engineer with 6+ years of experience delivering scalable machine learning and deep learning solutions that accelerate business performance. Proven expertise in deploying production-ready AI models, optimizing end-to-end data workflows, and driving strategic decision making through intelligent systems. Skilled in leveraging cloud platforms, NLP, and collaborative tools to generate actionable insights and solve complex challenges in remote, cross-functional teams.
 
 #### Expertise: 
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
 - Large Language Models
-- Cloud Engineering
+- Cloud Engineering & Deployment
 - Deep Reinforcement Learning
 - Marketing Analytics
-- Data Analytics
 - Website Development
 
 ## Education
 B.ENG., Automotive Engineering | Elizade University (_September 2023_)								       		
 
 ## Work Experience
-**Web Developer @ MEMAN (_January 2023 - Present_)**
-- Designed and maintained a user-friendly website, increasing online engagement by 40%.
+**Senior Web Developer & IT/AI Engineer @ MEMAN in Nigeria (_January 2024 - Present_)**
+- Integrated AI-powered analytics into MEMAN’s web platform, enabling real-time user engagemen tracking and driving decisions that increased online engagement by 40%.
+- Conducted sentiment analysis and engagement tracking on social media to inform advocacy strategies, improving online brand visibility by 30%.
+- Automated routine IT tasks and data processing workflows, significantly improving operational efficiency within the organization.
+- Led the development of AI-enhanced web features, optimizing user experience based on behavioral data.
 
-**AI Engineer @ Pakman Engineering Services Limited (_2018 - Present_)**
-- Developed AI models that improved customer retention by 20%.
-- Coordinated remote teams to deliver projects on schedule.
-- Designed and implemented NLP solutions, enhancing client processes by 30%.
+**Senior AI Engineer @ Pakman Engineering Services Limited in Nigeria (_May 2018 - January 2024_)**
+- Built and deployed predictive maintenance models to forecast machine performance, reducing machine downtime by 20% and increasing overall operational efficiency by 12%.
+- Developed machine learning pipelines to process and analyze data from over 1 million sensors across equipment in educational institutions, enabling predictive insights that improved scheduling and workflow.
+- Collaborated with cross-functional teams to integrate AIdriven solutions into supply chain operations, reducing equipment delivery delays by 15%.
+- Led the design of AI-based inventory management systems, streamlining part procurement and enhancing inventory accuracy, resulting in significant operational cost savings.
+- Implemented real-time analytics to monitor machinery health, providing actionable insights that helped reduce repair costs by 18%.
+
+**Data Scientist @ Eclipse-intl & Upwork in USA (_April 2022 - November 2023_)**
+- Developed data analysis models to evaluate market trendsin the movie distribution sector, optimizing content placement and improving sales by 15%.
+- Designed predictive models for audience engagement, enhancing movie distribution strategies and increasing audience reach by 25%.
+- Collaborated with marketing teams to implement data-driven recommendations for content acquisition and distribution based on user engagement patterns.
+- Analyzed sales data to identify high-performing moviegenres, enabling targeted marketing campaigns that boosted viewership by 20%.
+- Utilized big data tools to clean, process, and visualize large datasets, facilitating more informed decision-making in the distribution pipeline.
+
+**AI Engineer @ HighNote in USA (_October 2022 - January 2023_)**
+- Engineered machine learning pipelines to segment customer data and optimize outreach strategies, increasing targeted campaign success by 20%.
+- Deployed predictive scoring models into marketing CRM platforms for real-time campaign targeting, leading to a 15% increase in conversion rates.
+- Worked with product teams to integrate AI models into existing marketing infrastructure, streamlining customer engagement efforts.
+- Optimized model performance through continuous monitoring and retraining, ensuring sustained high accuracy in predictions.
 
 ## Projects
 <!-- ### Data-Driven EEG Band Discovery with Decision Trees
